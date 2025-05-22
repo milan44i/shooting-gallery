@@ -16,7 +16,7 @@ Shooting Gallery is a simple yet addictive mouse-based shooting game where playe
 
 ## 🚀 Game Screenshots
 
-![Shooting Gallery Gameplay](https://github.com/user-attachments/assets/6c146ca8-038b-43c8-b12a-26a5e2938d20)
+https://github.com/user-attachments/assets/6c146ca8-038b-43c8-b12a-26a5e2938d20
 
 ## 🛠️ Installation and Setup
 
