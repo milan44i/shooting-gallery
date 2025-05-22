@@ -1,4 +1,24 @@
-# 2D mouse shooting game made with Lua and Love2d 🎯
+# Shooting Gallery 🎯
+
+A fast-paced target shooting game built with Lua and LÖVE2D game framework.
+
+## 🎮 Game Overview
+
+Shooting Gallery is a simple yet addictive mouse-based shooting game where players aim to hit as many targets as possible within the time limit. Test your reflexes and accuracy as you try to achieve the highest score!
+
+## ✨ Features
+
+- Intuitive point-and-click gameplay
+- Score tracking system
+- Timed gameplay sessions
+- Dynamic target positioning
+- Clean and responsive UI
+
+## 🚀 Game Screenshots
+
+![Shooting Gallery Gameplay](https://github.com/user-attachments/assets/6c146ca8-038b-43c8-b12a-26a5e2938d20)
+
+## 🛠️ Installation and Setup
 
 In order to play it, you must follow these steps:
 
@@ -12,5 +32,10 @@ In order to play it, you must follow these steps:
 5. Run with Alt+L:
    With the main.lua file open in VS Code, press `Alt+L`. The Love2D game should launch in a separate window.
 
-https://github.com/user-attachments/assets/6c146ca8-038b-43c8-b12a-26a5e2938d20
+## 🕹️ How to Play
 
+- Click to start the game
+- Aim with your mouse and click to shoot targets
+- Hit targets to increase your score
+- Missing targets will deduct points
+- Try to get the highest score before time runs out!
